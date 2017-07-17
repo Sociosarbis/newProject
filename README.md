@@ -1,0 +1,2 @@
+# newProject
+django_tutorial
